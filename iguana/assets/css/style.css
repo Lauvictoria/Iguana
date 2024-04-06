@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+    padding: 0%;
+    margin: 0%;
+}
+header h1{
+    color: white;
+    text-align: center;
+}
+header img{   
+    width: 100%;  
+}
+.seccion1{
+    display: flex;
+    justify-content:space-evenly;
+    margin: 0%;
+    width: 80%;
+    padding-left: 120px; 
+}
+.texto p{
+    padding: 20px;
+    left: 150px;
+    width: 475px;
+    height: 197px;
+    text-align: left;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.iguana1 img{
+    padding: 20px;
+    /* Layout Properties */
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    /* UI Properties */
+    opacity: 1;
+}
+.flex {
+   margin: 0%;
+   padding: 0%;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.caracteristicas {
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    padding: 50px;
+    text-align: center;
+    color: white;
+    height: 348px;
+}
+.caracteristicas p{
+    font: normal normal 300 20px/24px Raleway;
+    padding: 0;
+}
+.caracteristicas i{
+    padding: 50px;
+}
+.secciongaleria{
+    display: flex;
+    justify-content:center;
+}   
+.secciongaleria img{
+    padding: 20px;
+    width: 400px;
+}
+.footer{
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    padding: 20px;
+    text-align: center; 
+}
+.footer a{
+    color: white;
+    text-align: left;
+    font: normal normal 300 20px/24px Raleway;
+}
